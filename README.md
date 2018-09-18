@@ -25,4 +25,4 @@ A list of awesome links to learn something cool \o/
 
 ## DevOps
 
-* [Play with Docker classroom](https://training.play-with-docker.com/ops-s1-hello/) - An interactive Docker tutorial.
+* [Play with Docker classrooms](https://training.play-with-docker.com/) - An interactive Docker tutorial.
