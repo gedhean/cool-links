@@ -21,3 +21,4 @@ A list of awesome links to learn something cool \o/
 ## Git
 
 * [Understanding GitHub Flow](https://guides.github.com/introduction/flow/) - Wrokflow of a project on GitHub.
+* [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git for Fun.
