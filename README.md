@@ -22,3 +22,7 @@ A list of awesome links to learn something cool \o/
 
 * [Understanding GitHub Flow](https://guides.github.com/introduction/flow/) - Wrokflow of a project on GitHub.
 * [Learn Git Branching](https://learngitbranching.js.org/) - Learn Git for Fun.
+
+## DevOps
+
+* [Play with Docker classroom](https://training.play-with-docker.com/ops-s1-hello/) - An interactive Docker tutorial.
