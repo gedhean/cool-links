@@ -30,3 +30,7 @@ A list of awesome links to learn something cool \o/
 ## Security 
 
 * [Shellter Labs](https://shellterlabs.com/) - A Social Network focused on information sercurity. There're lots of tutorials.
+
+## Community
+
+ * [HTML5 Boilerplate](https://h5bp.github.io/) - A bunch of people creating open source software. Front End Land o/.
